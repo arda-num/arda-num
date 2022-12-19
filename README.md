@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arda-num&label=Profile%20views&color=0e75b6&style=flat" alt="arda-num" /> </p>
 
-- 🔭 **Research Assistant @ METU ImageLab & Software Engineer @ Somera**
+- 🔭 Research Assistant @ **METU ImageLab** & Software Engineer @ **Somera**
 
 - 📫 How to reach me **ardanumanoglu@gmail.com**
 
