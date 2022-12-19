@@ -17,7 +17,9 @@
   <img align="center" src="https://github-SFSRNet.vercel.app/api/pin/?username=arda-num&repo=github-SFSRNet&theme=buefy" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+  
+  <img width="434" alt="Screenshot 2022-12-20 at 00 44 19" src="https://user-images.githubusercontent.com/78916039/208530151-6fa7a1a6-6caf-439a-94c8-47440002f08a.png">
+
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
