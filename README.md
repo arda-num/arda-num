@@ -24,8 +24,7 @@
   <img align="center "width="434" alt="Screenshot 2022-12-20 at 00 44 19" src="https://user-images.githubusercontent.com/78916039/208530151-6fa7a1a6-6caf-439a-94c8-47440002f08a.png">
 </a>
 <a href="https://github.com/arda-num/Turkish-Text-Classifier">  
-  
-<img width="433" alt="Screenshot 2022-12-20 at 00 44 10" src="https://user-images.githubusercontent.com/78916039/208530656-6d5f3cb1-a12e-4cce-abd8-5bd9be87bb25.png"></a>
+<img align="center" width="433" alt="Screenshot 2022-12-20 at 00 44 10" src="https://user-images.githubusercontent.com/78916039/208530656-6d5f3cb1-a12e-4cce-abd8-5bd9be87bb25.png"></a>
 <a href="[https://github.com/anuraghazra/anuraghazra.github.io](https://github.com/arda-num/landmark-detection)">  
   <img align="center "width="434" alt="Screenshot 2022-12-20 at 00 44 19" src="https://user-images.githubusercontent.com/78916039/208530151-6fa7a1a6-6caf-439a-94c8-47440002f08a.png">
 </a>
