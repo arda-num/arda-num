@@ -13,15 +13,19 @@
 <a href="https://instagram.com/numanogluarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="numanogluarda" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/arda-num/SFSRNet">
-  <img align="center" src="https://github-SFSRNet.vercel.app/api/pin/?username=arda-num&repo=github-SFSRNet&theme=buefy" />
-</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Machine Learning & Deep Learning: </h4>
 <p align="left"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>  </p> <br/>
-# Repositories
+<h4> Repositories </h4>
+<a href="https://github.com/arda-num/landmark-detection">  
+  <img align="center "width="434" alt="Screenshot 2022-12-20 at 00 44 19" src="https://user-images.githubusercontent.com/78916039/208530151-6fa7a1a6-6caf-439a-94c8-47440002f08a.png">
+</a>
+<a href="https://github.com/arda-num/Turkish-Text-Classifier">  
+  
+<img width="433" alt="Screenshot 2022-12-20 at 00 44 10" src="https://user-images.githubusercontent.com/78916039/208530656-6d5f3cb1-a12e-4cce-abd8-5bd9be87bb25.png"></a>
 <a href="[https://github.com/anuraghazra/anuraghazra.github.io](https://github.com/arda-num/landmark-detection)">  
   <img align="center "width="434" alt="Screenshot 2022-12-20 at 00 44 19" src="https://user-images.githubusercontent.com/78916039/208530151-6fa7a1a6-6caf-439a-94c8-47440002f08a.png">
 </a>
