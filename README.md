@@ -12,6 +12,13 @@
 <a href="https://linkedin.com/in/ardanum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ardanum" height="30" width="40" /></a>
 <a href="https://instagram.com/numanogluarda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="numanogluarda" height="30" width="40" /></a>
 </p>
+# Repositories
+<a href="https://github.com/arda-num/SFSRNet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=arda-num&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Machine Learning & Deep Learning: </h4>
