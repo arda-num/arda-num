@@ -3,8 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arda-num&label=Profile%20views&color=0e75b6&style=flat" alt="arda-num" /> </p>
 
+- 🔭 Research Intern @ **Maryland Cyber Security Center** 
 - 🔭 Research Assistant @ **METU** 
-- 👨‍💻 Software Engineer
+- 👨‍💻 Life-long Software Engineer
 
 - 📫 How to reach me **ardanumanoglu@gmail.com**
 
