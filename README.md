@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arda-num&label=Profile%20views&color=0e75b6&style=flat" alt="arda-num" /> </p>
 
-- 👨‍💻 Software Engineer @ [Udemy](https://www.vectorlogo.zone/logos/udemy/udemy-ar21.svg)
+- 👨‍💻 Software Engineer @ <img src="https://www.vectorlogo.zone/logos/udemy/udemy-ar21.svg" alt="udemy" />
 
 - 📫 How to reach me **ardanumanoglu@gmail.com**
 
